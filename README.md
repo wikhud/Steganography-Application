@@ -4,7 +4,7 @@ The implementation bases on mechanism called "least significant bit". The code r
 
 The encoder is used to embed the digital data such as text or image in another image. The decoder is used to extract hidden data from given image.
 
-Examples of using encoder and decoder with different hidden input types (and in different modes).
+Examples of using encoder and decoder with different hidden input types (and in different themes).
 
 a.1) Encoding text:
 
