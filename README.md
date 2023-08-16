@@ -16,11 +16,11 @@ a.2) Decoding text:
 
 b.1) Encoding image:
 
-![Zrzut ekranu 2023-08-16 235629](https://github.com/wikhud/Steganography-Application/assets/99511332/3761ce1d-3cda-4f85-9e72-9a75758ab536)
+![Zrzut ekranu 2023-08-16 235858](https://github.com/wikhud/Steganography-Application/assets/99511332/b1a80cee-1329-4223-ab66-bd0e94c3889f)
 
 b.2) Decoding image:
 
-![Zrzut ekranu 2023-08-16 235858](https://github.com/wikhud/Steganography-Application/assets/99511332/b1a80cee-1329-4223-ab66-bd0e94c3889f)
+![Zrzut ekranu 2023-08-16 235629](https://github.com/wikhud/Steganography-Application/assets/99511332/3761ce1d-3cda-4f85-9e72-9a75758ab536)
 
 
 
