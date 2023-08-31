@@ -1,8 +1,7 @@
 # Steganography Application
-This steganography app was created as a part of my bachelor thesis.
-The implementation bases on mechanism called "least significant bit". The code represents entire "autoencoder".
+This steganography app was created as a part of my bachelor thesis. The implementation bases on mechanism called "least significant bit". 
 
-The encoder is used to embed the digital data such as text or image in another image. The decoder is used to extract hidden data out of given image.
+The project consist of coder and decoder. The encoder is used to embed the digital data such as text or image in another image. The decoder is used to extract hidden data out of given image.
 
 Examples of using encoder and decoder with different hidden input types (and in different themes):
 
